@@ -60,6 +60,6 @@ After making changes you should create pull request and wait for feedback on you
 
 ## Materials
 
-Git: https://www.youtube.com/watch?v=USjZcfj8yxE
-Pull request: https://www.youtube.com/watch?v=For9VtrQx58
-How to make pull request: https://opensource.com/article/19/7/create-pull-request-github
+- Git: https://www.youtube.com/watch?v=USjZcfj8yxE
+- Pull request: https://www.youtube.com/watch?v=For9VtrQx58
+- How to make pull request: https://opensource.com/article/19/7/create-pull-request-github
