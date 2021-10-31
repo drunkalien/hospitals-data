@@ -2,7 +2,7 @@
 
 ## How to contribute
 
-In order to contribute to this repository first you must have a github account. Then clone this repository to your machine and start editing. First you should create an object of the district with its ***postal code, district name, postal codes of neighbouring districts and an array of hospitals*** inside hospitals array each hospital is represented as an object with following fields: ***postcode of the district where the hospital is located, name of hospital, type of hospital (ex.: Dental) and address of hospital***.
+In order to contribute to this repository first you must have a github account. Then clone this repository to your machine and start editing. First you should create an object of the district with its ***postal code, district name, postal codes of the neighbouring districts and an array of the hospitals*** inside hospitals array each hospital is represented as an object with the following fields: ***postcode of the district where the hospital is located, name of the hospital, type of hospital (ex.: Dental) and address of the hospital***.
 
 
 Object should be in this form:
