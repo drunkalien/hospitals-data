@@ -1,0 +1,32 @@
+{
+  "_IMPORTANT_FIND_HOSTPITALS_WITH_THIS_POST_CODE": 111503,
+  "_AVAILABLE_TYPES_OF_HOSPITALS": [
+    "Dental",
+    "Diagnostics",
+    "Oncology",
+    "Psychiatric",
+    "Local",
+    "Cardiac",
+    "Urologic",
+    "Private",
+    "Surgical"
+  ],
+
+  "postCode": 111503,
+  "district": "Yunusobod",
+  "neighbours": [100047, 100085, 100007],
+  "hospitals": [
+    {
+      "postCode": 111503,
+      "name": "NAME_OF_HOSPITAL",
+      "type": "TYPE_OF_HOSPITAL",
+      "address": "ADDRESS_OF_HOSPITAL"
+    },
+    {
+      "postCode": 111503,
+      "name": "NAME_OF_HOSPITAL2",
+      "type": "TYPE_OF_HOSPITAL2",
+      "address": "ADDRESS_OF_HOSPITAL2"
+    }
+  ]
+}

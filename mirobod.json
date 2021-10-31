@@ -1,0 +1,32 @@
+{
+  "_IMPORTANT_FIND_HOSTPITALS_WITH_THIS_POST_CODE": 100047,
+  "_AVAILABLE_TYPES_OF_HOSPITALS": [
+    "Dental",
+    "Diagnostics",
+    "Oncology",
+    "Psychiatric",
+    "Local",
+    "Cardiac",
+    "Urologic",
+    "Private",
+    "Surgical"
+  ],
+
+  "postCode": 100047,
+  "district": "Mirobod",
+  "neighbours": [100022, 100007, 111503],
+  "hospitals": [
+    {
+      "postCode": 100047,
+      "name": "NAME_OF_HOSPITAL",
+      "type": "TYPE_OF_HOSPITAL",
+      "address": "ADDRESS_OF_HOSPITAL"
+    },
+    {
+      "postCode": 100047,
+      "name": "NAME_OF_HOSPITAL2",
+      "type": "TYPE_OF_HOSPITAL2",
+      "address": "ADDRESS_OF_HOSPITAL2"
+    }
+  ]
+}

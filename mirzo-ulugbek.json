@@ -1,0 +1,32 @@
+{
+  "_IMPORTANT_FIND_HOSTPITALS_WITH_THIS_POST_CODE": 100022,
+  "_AVAILABLE_TYPES_OF_HOSPITALS": [
+    "Dental",
+    "Diagnostics",
+    "Oncology",
+    "Psychiatric",
+    "Local",
+    "Cardiac",
+    "Urologic",
+    "Private",
+    "Surgical"
+  ],
+
+  "postCode": 100022,
+  "district": "Mirzo Ulugbek",
+  "neighbours": [100114, 100007],
+  "hospitals": [
+    {
+      "postCode": 100022,
+      "name": "NAME_OF_HOSPITAL",
+      "type": "TYPE_OF_HOSPITAL",
+      "address": "ADDRESS_OF_HOSPITAL"
+    },
+    {
+      "postCode": 100022,
+      "name": "NAME_OF_HOSPITAL2",
+      "type": "TYPE_OF_HOSPITAL2",
+      "address": "ADDRESS_OF_HOSPITAL2"
+    }
+  ]
+}

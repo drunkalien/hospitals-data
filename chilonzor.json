@@ -1,0 +1,32 @@
+{
+  "_IMPORTANT_FIND_HOSTPITALS_WITH_THIS_POST_CODE": 100115,
+  "_AVAILABLE_TYPES_OF_HOSPITALS": [
+    "Dental",
+    "Diagnostics",
+    "Oncology",
+    "Psychiatric",
+    "Local",
+    "Cardiac",
+    "Urologic",
+    "Private",
+    "Surgical"
+  ],
+
+  "postCode": 100115,
+  "district": "Chilonzor",
+  "neighbours": [100011, 100022, 100126],
+  "hospitals": [
+    {
+      "postCode": 100115,
+      "name": "NAME_OF_HOSPITAL",
+      "type": "TYPE_OF_HOSPITAL",
+      "address": "ADDRESS_OF_HOSPITAL"
+    },
+    {
+      "postCode": 100115,
+      "name": "NAME_OF_HOSPITAL2",
+      "type": "TYPE_OF_HOSPITAL2",
+      "address": "ADDRESS_OF_HOSPITAL2"
+    }
+  ]
+}
