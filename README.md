@@ -45,7 +45,7 @@ Also DO NOT forget to use only the following predefined hospital types:
 
 If your hospital does not fit to the list, you can skip that one or contact [me](https://t.me/zieuw) for me to update the list.
 
-Please refer to [this link](https://github.com/drunkalien/hospitals-data/postal-codes.md) to see all the postal codes and districts.
+Please refer to [this link](https://github.com/drunkalien/hospitals-data/blob/main/postal-codes.md) to see all the postal codes and districts.
 
 ## Requirements
 
