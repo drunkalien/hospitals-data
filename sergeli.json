@@ -38,8 +38,21 @@
       "postCode": 100085,
       "name": "My Aba Crystal Dent",
       "type": "Dental",
-      "address": ""
+      "address": "Shokirarik street, Sergeli"
     },
+    {
+      "postCode": 100085,
+      "name": "Stomatologiya",
+      "type": "Dental",
+      "address": "2 Yangi Sergeli Road"
+    },
+    {
+      "postCode": 100085,
+      "name": "Asliddin-Dental",
+      "type": "Dental",
+      "address": "Sergeli 2, building-1, flat-29"
+    },
+    
     
   ]
 }
