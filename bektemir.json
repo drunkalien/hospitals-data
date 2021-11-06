@@ -5,7 +5,6 @@
     "Diagnostics",
     "Oncology",
     "Psychiatric",
-    "Local",
     "Cardiac",
     "Urologic",
     "Private",
@@ -13,20 +12,14 @@
   ],
 
   "postCode": 111503,
-  "district": "Yunusobod",
+  "district": "Bektemir",
   "neighbours": [100047, 100085, 100007],
   "hospitals": [
     {
       "postCode": 111503,
-      "name": "NAME_OF_HOSPITAL",
-      "type": "TYPE_OF_HOSPITAL",
-      "address": "ADDRESS_OF_HOSPITAL"
+      "name": "CITY CLINIC HOSPITAL #6",
+      "type": "Diagnostics",
+      "address": "Bektemir district, Oltintopgan street, 4"
     },
-    {
-      "postCode": 111503,
-      "name": "NAME_OF_HOSPITAL2",
-      "type": "TYPE_OF_HOSPITAL2",
-      "address": "ADDRESS_OF_HOSPITAL2"
-    }
   ]
 }
