@@ -18,15 +18,81 @@
   "hospitals": [
     {
       "postCode": 100085,
-      "name": "NAME_OF_HOSPITAL",
-      "type": "TYPE_OF_HOSPITAL",
-      "address": "ADDRESS_OF_HOSPITAL"
+      "name": "Government Polyclinic No. 1",
+      "type": "Local",
+      "address": "Sadik Azimov 5 Passage, Tashkent, Uzbekistan"
     },
     {
       "postCode": 100085,
-      "name": "NAME_OF_HOSPITAL2",
-      "type": "TYPE_OF_HOSPITAL2",
-      "address": "ADDRESS_OF_HOSPITAL2"
-    }
+      "name": "Horev Medical Center",
+      "type": "Urologic",
+      "address": "Maxtumquli street 105, Uzbekistan"
+    },
+    {
+      "postCode": 100085,
+      "name": "Неврологическая клиника GMS",
+      "type": "Psychiatric",
+      "address": "8А Botkin ko'chasi, Tashkent, Uzbekistan"
+    },
+    {
+      "postCode": 100085,
+      "name": "EraMed",
+      "type": "Private",
+      "address": "3 Pahlavon Mahmud St, Tashkent, Uzbekistan"
+    },
+    {
+      "postCode": 100085,
+      "name": "Vita Alliance",
+      "type": "Diagnostics",
+      "address": "Parkent Street, Tashkent, Uzbekistan"
+    },
+    {
+      "postCode": 100085,
+      "name": "ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА №2",
+      "type": "Local",
+      "address": "48 Pavel Sadimenko Street, Tashkent, Uzbekistan"
+    },
+    {
+      "postCode": 100085,
+      "name": "27-SONLI OILAVIY POLIKLINIKASI YASHNOBOD TUMANI",
+      "type": "Local",
+      "address": " Yashnobod JARQO'RG'ON ko'chasi, 37A"
+    },
+    {
+      "postCode": 100085,
+      "name": "GLOBAL MED SISTEM. CLINIC",
+      "type": "Cardiac",
+      "address": "MIRZO ULUGBEK avenue, TASHSELMASH block of flats, 1A"
+    },
+    {
+      "postCode": 100085,
+      "name": "CHINOR MEDICAL CENTER. UZBEK-INDIAN MULTIDISCIPLINE MEDICAL CENTRE",
+      "type": "Surgical",
+      "address": "Yashnabad 1st KAMASHI pass., 5"
+    },
+    {
+      "postCode": 100085,
+      "name": "OSIYO TIBBIYOT MARKAZI MEDICAL CENTRE",
+      "type": "Diagnostics",
+      "address": "OSIYO TIBBIYOT MARKAZI MEDICAL CENTRE"
+    },
+    {
+      "postCode": 100085,
+      "name": "Dental Premier",
+      "type": "Dental",
+      "address": "52 Nasaf St, Tashkent 100007, Uzbekistan"
+    },
+    {
+      "postCode": 100085,
+      "name": "Well dental",
+      "type": "Dental",
+      "address": "63 Sadik Azimov Street, Tashkent 100047, Uzbekistan"
+    },
+    {
+      "postCode": 100085,
+      "name": "Tashkent Dental Implant Clinic",
+      "type": "Dental",
+      "address": "10, 12 Talimarjon Street, Tashkent, Uzbekistan"
+    },
   ]
 }

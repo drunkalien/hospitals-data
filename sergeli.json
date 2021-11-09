@@ -16,17 +16,72 @@
   "district": "Sergeli",
   "neighbours": [100115, 100022, 100047],
   "hospitals": [
-    {
+      {
       "postCode": 100085,
-      "name": "NAME_OF_HOSPITAL",
-      "type": "TYPE_OF_HOSPITAL",
-      "address": "ADDRESS_OF_HOSPITAL"
+      "name": "Republican Clinical Psychiatric Hospital",
+      "type": "Psychiatric",
+      "address": " Tashkent, Sergeli District, SPUTNIK-4,"
     },
     {
       "postCode": 100085,
-      "name": "NAME_OF_HOSPITAL2",
-      "type": "TYPE_OF_HOSPITAL2",
-      "address": "ADDRESS_OF_HOSPITAL2"
-    }
+      "name": "Global Medical Center",
+      "type": "Diagnostics",
+      "address": "35 Yangi Sergeli Road"
+    },
+    {
+      "postCode": 100085,
+      "name": "Comfort Med Private Clinic",
+      "type": "Urologic",
+      "address": "Sergeli District, street Yangi Sergeli Yuli, 4"
+    },
+    {
+      "postCode": 100085,
+      "name": "My Aba Crystal Dent",
+      "type": "Dental",
+      "address": "Shokirarik street, Sergeli"
+    },
+    {
+      "postCode": 100085,
+      "name": "Stomatologiya",
+      "type": "Dental",
+      "address": "2 Yangi Sergeli Road"
+    },
+    {
+      "postCode": 100085,
+      "name": "Asliddin-Dental",
+      "type": "Dental",
+      "address": "Sergeli 2, building-1, flat-29"
+    },
+    {
+      "postCode": 100085,
+      "name": "Kamoliddin Dental Clinic",
+      "type": "Dental",
+      "address": "1 Tursun Zade Street"
+    },
+    {
+      "postCode": 100085,
+      "name": "VITROS DIAGNOSTICS. LTD BRANCH #5",
+      "type": "Diagnostics",
+      "address": "SERGELI-2 block of flats, Kipchak Street, 14"
+    },
+    {
+      "postCode": 100085,
+      "name": "BLESS URAZ MED. PRIVATE CLINIC",
+      "type": "Private",
+      "address": "KURGANTEPA St., SPUTNIK-5 block of flats, 5/9"
+    },
+    {
+      "postCode": 100085,
+      "name": "GREEN MED STAR PRIVATE CLINIC.",
+      "type": "Cardiac",
+      "address": "Sergeli BIRLIK St., 68A"
+    },
+    {
+      "postCode": 100085,
+      "name": "GREEN MED STAR PRIVATE CLINIC.",
+      "type": "Cardiac",
+      "address": "Sergeli BIRLIK St., 68A"
+    },
+   
   ]
 }
