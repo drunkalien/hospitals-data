@@ -5,7 +5,6 @@
     "Diagnostics",
     "Oncology",
     "Psychiatric",
-    "Local",
     "Cardiac",
     "Urologic",
     "Private",
@@ -17,16 +16,88 @@
   "neighbours": [100115, 100011, 100022],
   "hospitals": [
     {
-      "postCode": 100126,
-      "name": "NAME_OF_HOSPITAL",
-      "type": "TYPE_OF_HOSPITAL",
-      "address": "ADDRESS_OF_HOSPITAL"
+      "postCode": 100123,
+      "name": "UROLOGIC COMPLEX",
+      "type": "Urologic, Diagnostics, Private",
+      "address": "Chilanzar-12, st. Sheyx-zade, 7"
+    },
+    {
+      "postCode": 100173,
+      "name": "Asia Med Center",
+      "type": "Private, Cardiac, Diagnostics, Dental",
+      "address": "Chilanzar-G9A, st. Lutfi, 1A"
     },
     {
       "postCode": 100126,
-      "name": "NAME_OF_HOSPITAL2",
-      "type": "TYPE_OF_HOSPITAL2",
-      "address": "ADDRESS_OF_HOSPITAL2"
-    }
+      "name": "JACKSOFT MDS",
+      "type": "Private, Cardiac, Diagnostics, Urologic, Oncology, Surgical",
+      "address": "st. Foziltepa, 20A"
+    },
+    {
+      "postCode": 100139,
+      "name": "Darmon Diagnostika",
+      "type": "Dental, Diagnostics, Oncology, Cardiac, Private, Urologic, Surgical",
+      "address": "st. Lutfi, Chilanzar-23, 56"
+    },
+    {
+      "postCode": 100001,
+      "name": "NEVRO SERVIS DIAGNOSTIC CLINIC",
+      "type": "Diagnostics, Oncology, Cardiac, Private, Urologic, Surgical",
+      "address": "st. Kukcha Darvoza, 558А"
+    },
+    {
+      "postCode": 100173,
+      "name": "GATLING MED",
+      "type": "Diagnostics, Private, Surgical",
+      "address": "Chilanzar-13, 45"
+    },
+    {
+      "postCode": 100139,
+      "name": "KARAVAN FARM SHIFO",
+      "type": "Dental, Diagnostics, Private, Surgical",
+      "address": "St. Katta Xirmon Tepa, Chilanzar-23, 2C"
+    },
+    {
+      "postCode": 100173,
+      "name": "KRIOMED",
+      "type": "Diagnostics, Private",
+      "address": "St. Foziltepa, Chilanzar-15, 23A"
+    },
+    {
+      "postCode": 100123,
+      "name": "Akrom Stom",
+      "type": "Dental, Private",
+      "address": "St. Farxod, Chilanzar-11, 18/51"
+    },
+    {
+      "postCode": 100151,
+      "name": "MEDIOFARM",
+      "type": "Diagnostics, Private",
+      "address": "St. Kukcha Darvoza, 618A"
+    },
+    {
+      "postCode": 100139,
+      "name": "NBF MED",
+      "type": "Diagnostics, Private",
+      "address": "St. Katta Xirmon Tepa, Chilanzar-23, 2B"
+    },
+    {
+      "postCode": 100131,
+      "name": "Sardor Stom",
+      "type": "Dental, Private",
+      "address": "St. Lutfi, Chilanzar-24, 55"
+    },
+    {
+      "postCode": 100131,
+      "name": "Vatan Stom Luks",
+      "type": "Dental, Private",
+      "address": "St. Lutfi, Chilanzar-24, 55"
+    },
+    {
+      "postCode": 100173,
+      "name": "TIBBIYOT OLAMI",
+      "type": "Diagnostics, Private",
+      "address": "St. Kichik Xalqa Yoli, Chilanzar-11, 11/1"
+    },
   ]
 }
