@@ -18,15 +18,57 @@
   "hospitals": [
     {
       "postCode": 100022,
-      "name": "NAME_OF_HOSPITAL",
-      "type": "TYPE_OF_HOSPITAL",
-      "address": "ADDRESS_OF_HOSPITAL"
+      "name": "Local",
+      "type": "FAMILY POLYCLINIC #4",
+      "address": "KALANDAR avenue, 2"
     },
     {
       "postCode": 100022,
-      "name": "NAME_OF_HOSPITAL2",
-      "type": "TYPE_OF_HOSPITAL2",
-      "address": "ADDRESS_OF_HOSPITAL2"
+      "name": "Dental",
+      "type": "Sadafkom",
+      "address": "st. Mustaqillik, 86A"
+    },
+    {
+      "postCode": 100022,
+      "name": "Local",
+      "type": "FAMILY POLYCLINIC #8",
+      "address": " st. MINGBULOQ, 40"
+    },
+    {
+      "postCode": 100022,
+      "name": "Cardiac",
+      "type": "UMC",
+      "address": "st. Mustaqillik, 86A"
+    },
+    {
+      "postCode": 100022,
+      "name": "Local",
+      "type": "CENTRAL MULTIDISCIPLINE POLYCLINIC AT RMO #8",
+      "address": " TTZ-2 avenue"
+    },
+    {
+      "postCode": 100022,
+      "name": "Private",
+      "type": "1 MEDICAL AND LABOR EXPERT COMMISSION (VTEK)",
+      "address": " Qorasu-2 avenue, 40"
+    },
+    {
+      "postCode": 100022,
+      "name": "Diagnostics",
+      "type": "Medical Center for Obstetrics and Gynecology",
+      "address": "st. Feruza, 132a"
+    },
+    {
+      "postCode": 100022,
+      "name": "Private",
+      "type": "MEDICANA MEDICAL CENTER",
+      "address": "st. Akkurgan, 20A"
+    },
+    {
+      "postCode": 100022,
+      "name": "Diagnostics",
+      "type": "IX MED CLINIC",
+      "address": "st. Ravnak, 41"
     }
   ]
 }
