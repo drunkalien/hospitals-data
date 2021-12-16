@@ -20,43 +20,50 @@
       "postCode": 100022,
       "name": "Local",
       "type": "FAMILY POLYCLINIC #4",
-      "address": "KALANDAR avenue, 2"
+      "address": "KALANDAR avenue, 2",
+      "isUnderAge": false
     },
     {
       "postCode": 100022,
       "name": "Dental",
       "type": "Sadafkom",
-      "address": "st. Mustaqillik, 86A"
+      "address": "st. Mustaqillik, 86A",
+      "isUnderAge": false
     },
     {
       "postCode": 100022,
       "name": "Local",
       "type": "FAMILY POLYCLINIC #8",
-      "address": " st. MINGBULOQ, 40"
+      "address": " st. MINGBULOQ, 40",
+      "isUnderAge": false
     },
     {
       "postCode": 100022,
       "name": "Cardiac",
       "type": "UMC",
-      "address": "st. Mustaqillik, 86A"
+      "address": "st. Mustaqillik, 86A",
+      "isUnderAge": false
     },
     {
       "postCode": 100022,
       "name": "Local",
       "type": "CENTRAL MULTIDISCIPLINE POLYCLINIC AT RMO #8",
-      "address": " TTZ-2 avenue"
+      "address": " TTZ-2 avenue",
+      "isUnderAge": false
     },
     {
       "postCode": 100022,
       "name": "Private",
       "type": "1 MEDICAL AND LABOR EXPERT COMMISSION (VTEK)",
-      "address": " Qorasu-2 avenue, 40"
+      "address": " Qorasu-2 avenue, 40",
+      "isUnderAge": false
     },
     {
       "postCode": 100022,
       "name": "Diagnostics",
       "type": "Medical Center for Obstetrics and Gynecology",
-      "address": "st. Feruza, 132a"
+      "address": "st. Feruza, 132a",
+      "isUnderAge": false
     },
     {
       "postCode": 100022,
@@ -68,7 +75,8 @@
       "postCode": 100022,
       "name": "Diagnostics",
       "type": "IX MED CLINIC",
-      "address": "st. Ravnak, 41"
+      "address": "st. Ravnak, 41",
+      "isUnderAge": false
     }
   ]
 }
