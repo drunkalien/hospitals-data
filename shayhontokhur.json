@@ -18,15 +18,52 @@
   "hospitals": [
     {
       "postCode": 100011,
-      "name": "NAME_OF_HOSPITAL",
-      "type": "TYPE_OF_HOSPITAL",
-      "address": "ADDRESS_OF_HOSPITAL"
+      "name": "CLINICAL INFECTIOUS DISEASES HOSPITAL #1",
+      "type": "Diagnostics",
+      "address": "Shaykhontokhur KICHIK KHALKA YULI (MALAYA KOLTSEVAYA) St., 341A",
+      "isUnderAge": false
     },
     {
       "postCode": 100011,
-      "name": "NAME_OF_HOSPITAL2",
-      "type": "TYPE_OF_HOSPITAL2",
-      "address": "ADDRESS_OF_HOSPITAL2"
-    }
+      "name": "REPUBLICAN SPECIALIZED SCIENTIFIC AND PRACTICAL MEDICAL CENTER OF ONCOLOGY AND RADIOLOGY",
+      "type": "Oncology",
+      "address": "Shaykhontokhur FAROBI St., 383",
+      "isUnderAge": false
+    },
+    {
+      "postCode": 100011,
+      "name": "TASHKENT CITY CLINICAL HOSPITAL #1",
+      "type": "Private",
+      "address": "Shaykhontokhur KUKCHA DARVAZA (former MANNON UYGUR) St., 40",
+      "isUnderAge": false
+    },
+    {
+      "postCode": 100011,
+      "name": "PHTISIATRIC AND PULMONOLOGIC RESEARCH INSTITUTE.",
+      "type": "Private",
+      "address": "Shaykhontokhur MAJLISI St., 1",
+      "isUnderAge": false,
+    },
+    {
+      "postCode": 100011,
+      "name": "CITY CHILDREN'S CLINICAL HOSPITAL #4.",
+      "type": "Private",
+      "address": "Shaykhontokhur BOGKUCHA (M-27) block of flats, 20",
+      "isUnderAge": true,
+    },
+    {
+      "postCode": 100011,
+      "name": "CHILDRENS INFECTIOUS HOSPITAL #4 OF TASHKENT CITY",
+      "type": "Diagnostics",
+      "address": "Shaykhontokhur TAKHTAPUL (former Z.KABULOV) St., 30",
+      "isUnderAge": true,
+    },
+    {
+      "postCode": 100011,
+      "name": "CHILDREN'S TUBERCULOSIS HOSPITAL OF TASHKENT CITY",
+      "type": "Diagnostics",
+      "address": "Shaykhontokhur RSKHMAT FAYZI St., 4",
+      "isUnderAge": true,
+    },
   ]
 }
