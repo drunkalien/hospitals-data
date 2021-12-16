@@ -20,49 +20,57 @@
       "postCode": 100085,
       "name": "Republican Clinical Psychiatric Hospital",
       "type": "Psychiatric",
-      "address": " Tashkent, Sergeli District, SPUTNIK-4,"
+      "address": " Tashkent, Sergeli District, SPUTNIK-4,",
+      "isUnderAge": false
     },
     {
       "postCode": 100085,
       "name": "Global Medical Center",
       "type": "Diagnostics",
-      "address": "35 Yangi Sergeli Road"
+      "address": "35 Yangi Sergeli Road",
+      "isUnderAge": false
     },
     {
       "postCode": 100085,
       "name": "Comfort Med Private Clinic",
       "type": "Urologic",
-      "address": "Sergeli District, street Yangi Sergeli Yuli, 4"
+      "address": "Sergeli District, street Yangi Sergeli Yuli, 4",
+      "isUnderAge": false
     },
     {
       "postCode": 100085,
       "name": "My Aba Crystal Dent",
       "type": "Dental",
-      "address": "Shokirarik street, Sergeli"
+      "address": "Shokirarik street, Sergeli",
+      "isUnderAge": false
     },
     {
       "postCode": 100085,
       "name": "Stomatologiya",
       "type": "Dental",
-      "address": "2 Yangi Sergeli Road"
+      "address": "2 Yangi Sergeli Road",
+      "isUnderAge": false
     },
     {
       "postCode": 100085,
       "name": "Asliddin-Dental",
       "type": "Dental",
-      "address": "Sergeli 2, building-1, flat-29"
+      "address": "Sergeli 2, building-1, flat-29",
+      "isUnderAge": false
     },
     {
       "postCode": 100085,
       "name": "Kamoliddin Dental Clinic",
       "type": "Dental",
-      "address": "1 Tursun Zade Street"
+      "address": "1 Tursun Zade Street",
+      "isUnderAge": false
     },
     {
       "postCode": 100085,
       "name": "VITROS DIAGNOSTICS. LTD BRANCH #5",
       "type": "Diagnostics",
-      "address": "SERGELI-2 block of flats, Kipchak Street, 14"
+      "address": "SERGELI-2 block of flats, Kipchak Street, 14",
+      "isUnderAge": false
     },
     {
       "postCode": 100085,
@@ -74,7 +82,8 @@
       "postCode": 100085,
       "name": "GREEN MED STAR PRIVATE CLINIC.",
       "type": "Cardiac",
-      "address": "Sergeli BIRLIK St., 68A"
+      "address": "Sergeli BIRLIK St., 68A",
+      "isUnderAge": false
     }
   ]
 }
