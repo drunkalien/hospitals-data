@@ -16,88 +16,102 @@
   "neighbours": [100115, 100011, 100022],
   "hospitals": [
     {
-      "postCode": 100123,
+      "postCode": 100126,
       "name": "UROLOGIC COMPLEX",
       "type": "Urologic, Diagnostics, Private",
-      "address": "Chilanzar-12, st. Sheyx-zade, 7"
+      "address": "Chilanzar-12, st. Sheyx-zade, 7",
+      "isUnderAge": false
     },
     {
-      "postCode": 100173,
+      "postCode": 100126,
       "name": "Asia Med Center",
       "type": "Private, Cardiac, Diagnostics, Dental",
-      "address": "Chilanzar-G9A, st. Lutfi, 1A"
+      "address": "Chilanzar-G9A, st. Lutfi, 1A",
+      "isUnderAge": false
     },
     {
       "postCode": 100126,
       "name": "JACKSOFT MDS",
       "type": "Private, Cardiac, Diagnostics, Urologic, Oncology, Surgical",
-      "address": "st. Foziltepa, 20A"
+      "address": "st. Foziltepa, 20A",
+      "isUnderAge": false
     },
     {
-      "postCode": 100139,
+      "postCode": 100126,
       "name": "Darmon Diagnostika",
       "type": "Dental, Diagnostics, Oncology, Cardiac, Private, Urologic, Surgical",
-      "address": "st. Lutfi, Chilanzar-23, 56"
+      "address": "st. Lutfi, Chilanzar-23, 56",
+      "isUnderAge": false
     },
     {
-      "postCode": 100001,
+      "postCode": 100126,
       "name": "NEVRO SERVIS DIAGNOSTIC CLINIC",
       "type": "Diagnostics, Oncology, Cardiac, Private, Urologic, Surgical",
-      "address": "st. Kukcha Darvoza, 558А"
+      "address": "st. Kukcha Darvoza, 558А",
+      "isUnderAge": false
     },
     {
-      "postCode": 100173,
+      "postCode": 100126,
       "name": "GATLING MED",
       "type": "Diagnostics, Private, Surgical",
-      "address": "Chilanzar-13, 45"
+      "address": "Chilanzar-13, 45",
+      "isUnderAge": false
     },
     {
-      "postCode": 100139,
+      "postCode": 100126,
       "name": "KARAVAN FARM SHIFO",
       "type": "Dental, Diagnostics, Private, Surgical",
-      "address": "St. Katta Xirmon Tepa, Chilanzar-23, 2C"
+      "address": "St. Katta Xirmon Tepa, Chilanzar-23, 2C",
+      "isUnderAge": false
     },
     {
-      "postCode": 100173,
+      "postCode": 100126,
       "name": "KRIOMED",
       "type": "Diagnostics, Private",
-      "address": "St. Foziltepa, Chilanzar-15, 23A"
+      "address": "St. Foziltepa, Chilanzar-15, 23A",
+      "isUnderAge": false
     },
     {
-      "postCode": 100123,
+      "postCode": 100126,
       "name": "Akrom Stom",
       "type": "Dental, Private",
-      "address": "St. Farxod, Chilanzar-11, 18/51"
+      "address": "St. Farxod, Chilanzar-11, 18/51",
+      "isUnderAge": false
     },
     {
-      "postCode": 100151,
+      "postCode": 100126,
       "name": "MEDIOFARM",
       "type": "Diagnostics, Private",
-      "address": "St. Kukcha Darvoza, 618A"
+      "address": "St. Kukcha Darvoza, 618A",
+      "isUnderAge": false
     },
     {
-      "postCode": 100139,
+      "postCode": 100126,
       "name": "NBF MED",
       "type": "Diagnostics, Private",
-      "address": "St. Katta Xirmon Tepa, Chilanzar-23, 2B"
+      "address": "St. Katta Xirmon Tepa, Chilanzar-23, 2B",
+      "isUnderAge": false
     },
     {
-      "postCode": 100131,
+      "postCode": 100126,
       "name": "Sardor Stom",
       "type": "Dental, Private",
-      "address": "St. Lutfi, Chilanzar-24, 55"
+      "address": "St. Lutfi, Chilanzar-24, 55",
+      "isUnderAge": false
     },
     {
-      "postCode": 100131,
+      "postCode": 100126,
       "name": "Vatan Stom Luks",
       "type": "Dental, Private",
-      "address": "St. Lutfi, Chilanzar-24, 55"
+      "address": "St. Lutfi, Chilanzar-24, 55",
+      "isUnderAge": false
     },
     {
-      "postCode": 100173,
+      "postCode": 100126,
       "name": "TIBBIYOT OLAMI",
       "type": "Diagnostics, Private",
-      "address": "St. Kichik Xalqa Yoli, Chilanzar-11, 11/1"
+      "address": "St. Kichik Xalqa Yoli, Chilanzar-11, 11/1",
+      "isUnderAge": false
     },
   ]
 }
