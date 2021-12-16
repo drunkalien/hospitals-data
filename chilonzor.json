@@ -20,70 +20,78 @@
       "postCode": 100115,
       "name": "CENTRAL POLYCLINIC OF CHILANZAR DISTRICT",
       "type": "Diagnostics",
-      "address": "BUNYODKOR avenue, 7A"
+      "address": "BUNYODKOR avenue, 7A",
+      "isUnderAge": false
     },
     {
       "postCode": 100115,
       "name": " FAMILY POLYCLINIC #33",
       "type": "Cardiac",
-      "address": "1st TIRSAKOBOD pass., 7"
+      "address": "1st TIRSAKOBOD pass., 7",
+      "isUnderAge": false
     },
     {
       "postCode": 100115,
       "name": "DEO CHANG JO. CLINIC",
       "type": "Private",
-      "address": "ARNASAY (former PIONERSKAYA) St., 51/1"
+      "address": "ARNASAY (former PIONERSKAYA) St., 51/1",
+      "isUnderAge": false
     },
     {
       "postCode": 100115,
       "name": "CENTER OF DOCTOR BUBNOVSKY MEDICAL CENTRE",
       "type": "Diagnostics",
-      "address": "GAGARIN St., 41"
+      "address": "GAGARIN St., 41",
+      "isUnderAge": false
     },
     {
       "postCode": 100115,
       "name": "BEK NUR STOM. STOMATOLOGY",
       "type": "Dental",
-      "address": "CHILANZAR-8 block, CHAPANATA St., 53/25"
+      "address": "CHILANZAR-8 block, CHAPANATA St., 53/25",
+      "isUnderAge": false
     },
     {
       "postCode": 100115,
       "name": "PERSONA-DENTAL-CLINIC DENTAL CLINIC.",
       "type": "Dental",
-      "address": "KATARTAL St., CHILANZAR-5 block, 25/37"
+      "address": "KATARTAL St., CHILANZAR-5 block, 25/37",
+      "isUnderAge": false
     },
     {
       "postCode": 100115,
       "name": "LIDER-STOM. STOMATOLOGY",
       "type": "Dental",
-      "address": "KATARTAL St., CHILANZAR-6 block, 31/13"
+      "address": "KATARTAL St., CHILANZAR-6 block, 31/13",
+      "isUnderAge": false
     },
     {
       "postCode": 100115,
       "name": "Estimed",
       "type": "Cardiac",
-      "address": "Chilanzar Street 43/1"
+      "address": "Chilanzar Street 43/1",
+      "isUnderAge": false
     },
     {
       "postCode": 100115,
       "name": "Gatling-MED",
       "type": "Surgical",
-      "address": "5/1 дом, 1 квартал"
+      "address": "5/1 дом, 1 квартал",
+      "isUnderAge": false
     },
     {
       "postCode": 100115,
       "name": "16-Balnitsa",
       "type": "Urologic",
-      "address": "2 Little Ring Road"
+      "address": "2 Little Ring Road",
+      "isUnderAge": false
     },
     {
       "postCode": 100115,
       "name": "Republican Surgery Center",
       "type": "Surgical",
-      "address": "10 Little Ring Road"
+      "address": "10 Little Ring Road",
+      "isUnderAge": false
     },
-    
-    
-    
   ]
 }
