@@ -19,7 +19,43 @@
       "postCode": 111503,
       "name": "CITY CLINIC HOSPITAL #6",
       "type": "Diagnostics",
-      "address": "Bektemir district, Oltintopgan street, 4"
+      "address": "Bektemir district, Oltintopgan street, 4",
+      "isUnderAge": false
+    },
+    {
+      "postCode": 111503,
+      "name": "Toshkent viloyati shoshilinch tez tibbiy yordam bo'limi",
+      "type": "Private",
+      "address": "Bektemir district, Porlok Street",
+      "isUnderAge": false
+    },
+    {
+      "postCode": 111503,
+      "name": "Tszen Med Center",
+      "type": "Diagnostics",
+      "address": "Bektemir district, Navkiron street, 17",
+      "isUnderAge": false
+    },
+    {
+      "postCode": 111503,
+      "name": "Tsentral'naya Mnogoprofil'naya Poliklinika Pri Rmo Bektemirskogo Rayona",
+      "type": "Diagnostics",
+      "address": "Bektemir district, Suvsoz, 75",
+      "isUnderAge": false
+    },
+    {
+      "postCode": 111503,
+      "name": "Prima Denta",
+      "type": "Dental",
+      "address": " 29 Khusayin Baykaro Street, Tashkent",
+      "isUnderAge": false
+    },
+    {
+      "postCode": 111503,
+      "name": "HI TECH LABORATORIES",
+      "type": "Diagnostics",
+      "address": " 53 Khusayin Baykaro Street, Tashkent",
+      "isUnderAge": false
     },
   ]
 }
