@@ -20,67 +20,79 @@
       "postCode": 100114,
       "name": "AMERICAN HOSPITAL MEDICAL CENTRE",
       "type": "Cardiac",
-      "address": "YUNUSABAD DISTRICT, street IKBOL, 14"
+      "address": "YUNUSABAD DISTRICT, street IKBOL, 14",
+      "isUnderAge": false
     },
     {
       "postCode": 100114,
       "name": "HAYAT MEDICAL CENTRE PRIVATE CLINIC",
       "type": "Private",
-      "address": "YUNUSABAD DISTRICT, street MEVAZOR, 5/14"
+      "address": "YUNUSABAD DISTRICT, street MEVAZOR, 5/14",
+      "isUnderAge": false
     },
     {
       "postCode": 100114,
       "name": "CENTER OF NEPHROLOGY",
       "type": "Urologic",
-      "address": "YUNUSABAD DISTRICT, street YANGISHAHAR, 9"
+      "address": "YUNUSABAD DISTRICT, street YANGISHAHAR, 9",
+      "isUnderAge": false
     },
     {
       "postCode": 100114,
       "name": "CITY CHILDREN'S CLINICAL HOSPITAL № 1",
       "type": "Local",
-      "address": "YUNUSABAD DISTRICT, massif YUNUSABAD-3, 3"
+      "address": "YUNUSABAD DISTRICT, massif YUNUSABAD-3, 3",
+      "isUnderAge": true
     },
     {
       "postCode": 100114,
       "name": "DETOKS MEDIKAL NARCOLOGICAL CLINIC",
       "type": "Psychiatric",
-      "address": "YUNUSABAD DISTRICT, massif YUNUSABAD-15, street AKHMAD DONISH, 75-77"
+      "address": "YUNUSABAD DISTRICT, massif YUNUSABAD-15, street AKHMAD DONISH, 75-77",
+      "isUnderAge": false
     },
     {
       "postCode": 100114,
       "name": "CITY CLINICAL HOSPITAL № 7",
       "type": "Local",
-      "address": "YUNUSABAD DISTRICT, street GAYRATI, 24"
+      "address": "YUNUSABAD DISTRICT, street GAYRATI, 24",
+      "isUnderAge": false
     },
     {
       "postCode": 100114,
       "name": "EVOMED PRIVATE CLINIC",
       "type": "Private",
-      "address": "YUNUSABAD DISTRICT, street AKHMAD DONISH, 47 A"
+      "address": "YUNUSABAD DISTRICT, street AKHMAD DONISH, 47 A",
+      "isUnderAge": false
     },
     {
       "postCode": 100114,
       "name": "REPUBLICAN SPECIALIZED SCIENTIFICALLY-PRACTICAL CENTER OF THERAPY AND MEDICAL REHABILITATION STATE UNITARY ENTERPRISE",
       "type": "Local",
-      "address": "YUNUSABAD DISTRICT, street OSIYO, 4"
+      "address": "YUNUSABAD DISTRICT, street OSIYO, 4",
+      "isUnderAge": false
     },
     {
       "postCode": 100114,
       "name": "YASSI-DONO PRIVATE ENTERPRISE",
       "type": "Diagnostics",
-      "address": "YUNUSABAD DISTRICT, massif YUNUSABAD-14, 58/66"
+      "address": "YUNUSABAD DISTRICT, massif YUNUSABAD-14, 58/66",
+      "isUnderAge": false
     },
     {
       "postCode": 100114,
       "name": "IRODA - Oilaviy stomatologiya",
       "type": "Dental",
-      "address": "Yunusobod tumani, 8-mavze, Rixsiliy ko’chasi, 2-А uy, Тошкент 100190, Uzbekistan"
+      "address": "Yunusobod tumani, 8-mavze, Rixsiliy ko’chasi, 2-А uy, Тошкент 100190, Uzbekistan",
+      "isUnderAge": false,
+      "isUnderAge": false
     },
     {
       "postCode": 100114,
       "name": "Zeta Dent",
       "type": "Dental",
-      "address": "Yangi Yunusabad street 53, Uzbekistan"
+      "address": "Yangi Yunusabad street 53, Uzbekistan",
+      "isUnderAge": false
     },
   ]
 }
