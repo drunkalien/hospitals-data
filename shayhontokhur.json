@@ -1,17 +1,4 @@
 {
-  "_IMPORTANT_FIND_HOSTPITALS_WITH_THIS_POST_CODE": 100011,
-  "_AVAILABLE_TYPES_OF_HOSPITALS": [
-    "Dental",
-    "Diagnostics",
-    "Oncology",
-    "Psychiatric",
-    "Local",
-    "Cardiac",
-    "Urologic",
-    "Private",
-    "Surgical"
-  ],
-
   "postCode": 100011,
   "district": "Shayhontokhur",
   "neighbours": [100179, 100126, 100022],
