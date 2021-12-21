@@ -11,22 +11,44 @@
     "Private",
     "Surgical"
   ],
-
   "postCode": 100047,
   "district": "Mirobod",
   "neighbours": [100022, 100007, 111503],
   "hospitals": [
     {
       "postCode": 100047,
-      "name": "NAME_OF_HOSPITAL",
-      "type": "TYPE_OF_HOSPITAL",
-      "address": "ADDRESS_OF_HOSPITAL"
+      "name": "CHILDREN'S PSYCHO-NEUROLOGICAL CENTRE OF TASHKENT CITY",
+      "type": "Psychiatric",
+      "address": "Mirabad ESKI SARIKUL (former BEHTEREV) St., 2",
+      "isUnderAge": true
     },
     {
       "postCode": 100047,
-      "name": "NAME_OF_HOSPITAL2",
-      "type": "TYPE_OF_HOSPITAL2",
-      "address": "ADDRESS_OF_HOSPITAL2"
-    }
+      "name": "CLINICAL HOSPITAL #3 OF TASHKENT CITY",
+      "type": "Diagnostics",
+      "address": "Mirabad FITRAT St., 20",
+      "isUnderAge": false
+    },
+    {
+      "postCode": 100047,
+      "name": "PSYCHIATRIC CLINIC OF TASHKENT CITY",
+      "type": "Psychiatric",
+      "address": "Mirabad MEHRJON St., 35",
+      "isUnderAge": false
+    },
+    {
+      "postCode": 100047,
+      "name": "REPUBLICAN CLINICAL HOSPITAL #1",
+      "type": "Diagnostics",
+      "address": "Mirabad S.AZIMOV (former JUKOVSKAYA) St., 74",
+      "isUnderAge": false
+    },
+    {
+      "postCode": 100047,
+      "name": "CHILDRENS HOSPITAL OF JSC "UZBEKISTAN RAILWAYS".",
+      "type": "Diagnostics",
+      "address": "Mirabad FIDOIYLAR St., 21",
+      "isUnderAge": true
+    },
   ]
 }
