@@ -1,16 +1,4 @@
 {
-  "_IMPORTANT_FIND_HOSTPITALS_WITH_THIS_POST_CODE": 100126,
-  "_AVAILABLE_TYPES_OF_HOSPITALS": [
-    "Dental",
-    "Diagnostics",
-    "Oncology",
-    "Psychiatric",
-    "Cardiac",
-    "Urologic",
-    "Private",
-    "Surgical"
-  ],
-
   "postCode": 100126,
   "district": "Uchtepa",
   "neighbours": [100115, 100011, 100022],
