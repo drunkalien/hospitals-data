@@ -1,17 +1,4 @@
 {
-  "_IMPORTANT_FIND_HOSTPITALS_WITH_THIS_POST_CODE": 100085,
-  "_AVAILABLE_TYPES_OF_HOSPITALS": [
-    "Dental",
-    "Diagnostics",
-    "Oncology",
-    "Psychiatric",
-    "Local",
-    "Cardiac",
-    "Urologic",
-    "Private",
-    "Surgical"
-  ],
-
   "postCode": 100085,
   "district": "Yashnobod",
   "neighbours": [100125, 100047, 100022],
