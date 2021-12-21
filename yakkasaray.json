@@ -1,17 +1,4 @@
 {
-  "_IMPORTANT_FIND_HOSTPITALS_WITH_THIS_POST_CODE": 100022,
-  "_AVAILABLE_TYPES_OF_HOSPITALS": [
-    "Dental",
-    "Diagnostics",
-    "Oncology",
-    "Psychiatric",
-    "Local",
-    "Cardiac",
-    "Urologic",
-    "Private",
-    "Surgical"
-  ],
-
   "postCode": 100022,
   "district": "Yakkasaray",
   "neighbours": [100115, 100047, 100126, 100085],
