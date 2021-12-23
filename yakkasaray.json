@@ -17,16 +17,70 @@
   "neighbours": [100115, 100047, 100126, 100085],
   "hospitals": [
     {
-      "postCode": 100022,
-      "name": "NAME_OF_HOSPITAL",
-      "type": "TYPE_OF_HOSPITAL",
-      "address": "ADDRESS_OF_HOSPITAL"
+      "postCode": 100031,
+      "name": "PROFIMED",
+      "type": "Dental",
+      "address": "Yakkasaroy dist. Mirabad st. 6"
+    },
+    {
+      "postCode": 100100,
+      "name": "MODERN MEDICINE ALLIANCE",
+      "type": "Private, Cardiac",
+      "address": "Yakkasaroy dist, Bobur st. 20/422"
+    },
+    {
+      "postCode": 100070,
+      "name": "SAFO TIBBIYOT",
+      "type": "Private, Diagnostics",
+      "address": "Small Mirabadskaya, 21"
+    },
+    {
+      "postCode": 100059,
+      "name": "VITAMED MEDICAL",
+      "type": "Private, Cardiac",
+      "address": "Yakkasaroy dist, st. Sh.Rustaveli, 109A"
     },
     {
       "postCode": 100022,
-      "name": "NAME_OF_HOSPITAL2",
-      "type": "TYPE_OF_HOSPITAL2",
-      "address": "ADDRESS_OF_HOSPITAL2"
-    }
+      "name": "APOLLONIYA MEDICAL SERVICE",
+      "type": "Private, Diagnostics",
+      "address": "Yakkasaroy dist, st. Bobur, 71B"
+    },
+    {
+      "postCode": 100022,
+      "name": "ASROR TIB SERVIS",
+      "type": "Private, Diagnostics",
+      "address": "Yakkasaroy dist, st. Bobur, 73A"
+    },
+    {
+      "postCode": 100031,
+      "name": "DOKTOR SHAHNOZA-FAYZ",
+      "type": "Private, Diagnostics",
+      "address": "Yakkasaroy dist, st. Bogsaroy, 2/4"
+    },
+    {
+      "postCode": 100100,
+      "name": "GIRUDO NEYRO MED",
+      "type": "Private, Diagnostics",
+      "address": "Yakkasaroy dist, st. Sh.Rustaveli, 47"
+    },
+    {
+      "postCode": 100100,
+      "name": "MEDLINE",
+      "type": "Private, Diagnostics, Dental, Cardiac, Oncology",
+      "address": "Yakkasaroy dist, st. Bogibuston, 38A"
+    },
+    {
+      "postCode": 100059,
+      "name": "NAJOD SHIFO",
+      "type": "Private, Diagnostics",
+      "address": "Yakkasaroy dist, st. Sh.Rustaveli, 112"
+    },
+    {
+      "postCode": 100022,
+      "name": "SMART MED",
+      "type": "Private, Diagnostics",
+      "address": "Yakkasaroy dist, st. Bobur, 73A"
+    },
   ]
 }
